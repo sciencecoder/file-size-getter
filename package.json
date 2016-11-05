@@ -1,0 +1,23 @@
+{
+  "name": "file-size-getter",
+  "version": "1.0.0",
+  "description": "Select a file and press submit to view its size in bytes",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "forms",
+    "multer"
+  ],
+  "author": "Adam Orr",
+  "license": "ISC"
+}
